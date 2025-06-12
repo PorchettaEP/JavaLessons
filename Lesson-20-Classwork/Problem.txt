@@ -1,0 +1,17 @@
+Problem 1:
+
+After a farmer disastrously breaks and loses count of her eggs, she experiences difficulty recalling her original quantity. When questioned about the incident, she is able to remember that her eggs could not be evenly divided into twos, threes, fours, fives, or sixes without one remaining egg. The only number of which each egg could be evenly divided into was seven.
+Write a function eggs that returns the answer to the problems.
+
+
+
+Problem 2:
+
+Write a function isPrime that accepts an integer and returns true if the integer passed in is a prime, otherwise return false.
+HINT: Prime is a number only divisible by 1 and itself.
+
+Example:
+isPrime(23)==>True
+isPrime(14)==>False
+
+

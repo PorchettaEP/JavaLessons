@@ -1,0 +1,18 @@
+Problem 1:
+
+Write a function avgDist that accepts an array of integers, calculates and the returns the following:
+Use these step to do the calculation
+
+Step 1: Find the avg. Use the function avgArray we did in class.
+Step 2: Calculate the sum of each value minus the avg all squared (x-avg)^2. 
+Step 3: take the square root of the sum and return this value
+
+To test this function, create an array of name in the init funtion.
+
+Problem 2:
+
+Write a function findStudent that accepts an array of student names and a the students' name you are looking for in the array and return true if you find that student in the array, otherwise return false.
+
+To test this function, create an array of student names in the init function.
+
+
