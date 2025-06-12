@@ -1,0 +1,27 @@
+
+    Problem 1:
+    Write a function collegeApp that accepts a gpa and SAT 
+    score and return "ACCEPTED" if gpa is 3.2 or better or
+    an SAT score of 1450 or better, otherwise return 
+    "Not Accepted"
+  
+    Problem 2:
+    Write a function called ecoFuel that takes the
+    speed of a car in MPH and returns a string "Fuel Economy"
+    if the spee is between 40 and 65 MPH inclusive  
+    otherwise return "Not Optimal"
+
+    Problem 3:
+    Write a function speedFine that accepts the speed on 
+    a speeding ticket and returns fine of 75 for speeds 
+    between 60 and 70 (inlcusive), otherwise return a 
+    fine of 75 plus two dollars for every mile over 70.
+
+    Problem 4:
+
+      Write a function discount that takes in the cost of 
+      of three items and returns total amount discounted by
+      10% if the sum of the item costs is over 250 and
+      if at least one of the items cost 100 or more, otherwise
+      return the total amount with no discount
+
