@@ -1,0 +1,5 @@
+1)
+Add a constructor that initializes the class variables.
+
+2)
+In the init function, create 3 dogs: Toto, Snoopy, and Poophy. 
